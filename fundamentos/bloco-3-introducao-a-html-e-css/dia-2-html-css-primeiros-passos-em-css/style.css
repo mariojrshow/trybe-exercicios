@@ -1,0 +1,28 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+ul {
+    background-color: blue;
+}
+.juntos {
+    background-color: rgb(151, 108, 108);
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+body {
+    font-size: 16px;
+    line-height: 30px;
+}
+#yell {
+    background-color: yellow;
+}
+#red {
+    background-color: red;
+}
+#bro {
+    background-color: brown;
+}
